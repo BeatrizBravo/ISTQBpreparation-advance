@@ -24,5 +24,5 @@ The main focus for a Test Analyst is on:
 * Test Implementation: Getting the tests ready.
 * Test Execution: Actually running the tests.<br>
 <br>
-![](https://raw.githubusercontent.com/BeatrizBravo/ISTQBpreparation-advance/refs/heads/main/Resources/sdlc-process.png)
+![](https://github.com/BeatrizBravo/ISTQBpreparation-advance/blob/main/Resources/sdlc-process.png)
 
