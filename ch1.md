@@ -1,8 +1,14 @@
 ## Introduccion
-Please review [Chapter 2 of the Foundation Level](https://github.com/BeatrizBravo/ISTQBpreparation/blob/main/subjects/2-Life-cycles.md).
-And please review the ['Test Process'](https://github.com/BeatrizBravo/ISTQBpreparation/blob/main/subjects/1-Fundamental.md#test-process) section from Chapter 1 of the Foundation Level <br><br>
+The Software Development Life Cycle (SDLC) is a crucial framework that outlines the various stages involved in developing software applications. This structured process ensures that software is created efficiently, meets user requirements, and maintains high quality throughout its lifecycle.  <br>
+
+Review from the Foundation Level:
+* The [SDLC](https://github.com/BeatrizBravo/ISTQBpreparation/blob/main/subjects/2-Life-cycles.md), chapter 2 . <br><br>
+* And review the ['Test Process'](https://github.com/BeatrizBravo/ISTQBpreparation/blob/main/subjects/1-Fundamental.md#test-process) , Chapter 1.
+
+<br><br>
+
 In the ISTQB® Foundation Level syllabus, the test process includes several important steps:
-1. Test Planning: Deciding what to test and how to do it.
+1. Test Planning: Deciding what to test and how to do it. 
 2. Test Monitoring and Control: Keeping track of the testing progress.
 3. Test Analysis: Looking at what needs to be tested.
 4. Test Design: Creating the tests.
