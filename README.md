@@ -10,13 +10,11 @@ Prepare to pass the Certified Tester Advanced Level Test Analyst (CTAL-TA)
  -  [Testing Software Quality Characteristics](https://github.com/BeatrizBravo/...)
  -  [Reviews](https://github.com/BeatrizBravo/...)
  -  [Test Tools and Automation](https://github.com/BeatrizBravo/...)
-fdsfsdfsdf
 
-fsdfsdfdsf
 
-## [Official description of the certification](https://www.istqb.org/certifications/certified-tester-advanced-level-test-analyst/)
+## [Official description of the certification](https://www.istqb.org/certifications/certified-tester-advanced-level-test-analyst/) 
 
-dfdsfdsfds
+
 
 ```
 The Test Analyst’s Tasks in the Test Process
