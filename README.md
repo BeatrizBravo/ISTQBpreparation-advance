@@ -1,5 +1,5 @@
-# ISTQBpreparation-advanced
-Prepare to pass the Certified Tester Advanced Level Test Analyst (CTAL-TA)
+# ISTQB® Certified Tester Advanced Level – Test Analyst (CTAL-TA)
+Let's prepare together for this certification so we can gain more experience in the role.
 
 
 # Index Contents:
@@ -11,8 +11,8 @@ Prepare to pass the Certified Tester Advanced Level Test Analyst (CTAL-TA)
  -  [Reviews](https://github.com/BeatrizBravo/...)
  -  [Test Tools and Automation](https://github.com/BeatrizBravo/...)
 
-
-## [Official description of the certification](https://www.istqb.org/certifications/certified-tester-advanced-level-test-analyst/) 
+---
+### [Official description of the certification](https://www.istqb.org/certifications/certified-tester-advanced-level-test-analyst/) 
 
 
 
