@@ -5,7 +5,7 @@ Let's prepare together for this certification so we can gain more experience in 
 ## Index Contents:
 
  - ✅ [The Test Analyst’s Tasks in the Test Process](https://github.com/BeatrizBravo/ISTQBpreparation-advance/blob/main/ch1.md)
- -  [The Test Analyst’s Tasks in Risk-Based Testing](https://github.com/BeatrizBravo/...)
+ - ✅ [The Test Analyst’s Tasks in Risk-Based Testing](https://github.com/BeatrizBravo/ISTQBpreparation-advance/blob/main/ch2.md)
  -  [Test Techniques](https://github.com/BeatrizBravo/...)
  -  [Testing Software Quality Characteristics](https://github.com/BeatrizBravo/...)
  -  [Reviews](https://github.com/BeatrizBravo/...)
